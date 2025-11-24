@@ -1,0 +1,39 @@
+h1{
+    color: brown;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 2px,black,solid;
+    padding: 23px;
+    
+}
+
+body{
+    background-color: bisque;
+}
+
+#SubHeading{
+    
+
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 9pt;
+  font-style: normal;
+  color: green;
+  text-align: center;
+  text-decoration: underline;
+}
+
+ol{
+    
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}   
+
+.images{
+    width: 250px;
+    height:200px
+    
+}
